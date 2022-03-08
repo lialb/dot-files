@@ -19,8 +19,6 @@ Plug 'junegunn/seoul256.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'w0rp/ale'
 Plug 'jiangmiao/auto-pairs'
-Plug 'dracula/vim'
-Plug 'kiteco/vim-plugin'
 call plug#end()
 
 set laststatus=2
@@ -36,3 +34,4 @@ set shiftwidth=4
 set expandtab
 
 nnoremap <C-y> "+y
+
